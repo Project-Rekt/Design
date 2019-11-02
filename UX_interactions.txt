@@ -1,0 +1,19 @@
+This is a list, for planning purposes, of all the possible UX interactions we would like to facilitate
+Indented lines are the systems that would be required in order to provide that functionality
+
+Construct Towers/Obstacles
+    Clickable menu of the options presented
+        Comprehensive Tower/Obstacle list
+    Currency system - visable bank
+    Overlay mode, to preview available areas for placement (maybe)
+    Information window, pop-up?
+
+Upgrades
+    EXP tracker/bank
+    Upgrade menu for point allocation/Information
+    Different sprites for lvled turrets?
+
+System menu
+    Quit
+    Save
+    Information
